@@ -13,7 +13,7 @@ MapBox APIs, SDKs, and live updating map data giving tools to build better mappi
 
 Here are some cool ideas as sample.You can either modify these problem statements in your own way or else you can come up with your own brainstorming super cool ideas.
 - C Tracker : Lets find our friends live location using MapBox API
-- Budget Tracker : Who doesn’t love to have an awesome budget Tracker? What if it is integrated with Notion, & have some nice insights on your spendings . Here is an opportunity for you to build.
+- Travel log : Generate a Route map of your travel path.
 
 ## Resources
 
