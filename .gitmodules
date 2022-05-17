@@ -10,3 +10,6 @@
 [submodule "GOAT | W7qoSZZMDzmjDYQmsWux"]
 	path = GOAT | W7qoSZZMDzmjDYQmsWux
 	url = https://github.com/twilighty-abhi/Wayfarer
+[submodule "Unicorn | XkYtlszbRIBaR9fzo5Jz"]
+	path = Unicorn | XkYtlszbRIBaR9fzo5Jz
+	url = https://github.com/devpenzil/th-mapbox-hacknight
